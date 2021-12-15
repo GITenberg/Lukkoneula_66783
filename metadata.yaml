@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '46596'
     url: http://www.gutenberg.org/2009/agents/46596
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Nyman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fletcher, J. S. (Joseph Smith)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1761
     wikipedia: https://en.wikipedia.org/wiki/J._S._Fletcher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66783#Lukkoneula
 gutenberg_issued: '2021-11-21'
 identifiers:
   gutenberg: '66783'
